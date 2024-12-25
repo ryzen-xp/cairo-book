@@ -176,10 +176,10 @@
 
 ## Memory
 
-- [Memory]()
+- [Memory](ch202-00-memory.md)
 
-  - [Non-Deterministic Read-only Memory]()
-  - [Segments]()
+  - [Non-Deterministic Read-only Memory](ch202-01-non_deterministic_read_only_memory.md)
+  - [Segments](ch202-02-segment.md)
   - [Segment Value]()
   - [Relocation]()
   - [Layout]()
